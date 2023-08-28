@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.block {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 300px;
+  border: 2px solid;
+  padding: 20px;
+}
+
+.button__container{
+  display: flex;
+}
